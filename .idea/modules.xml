@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaThread_01/JavaThread_01.iml" filepath="$PROJECT_DIR$/JavaThread_01/JavaThread_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThread_02/JavaThread_02.iml" filepath="$PROJECT_DIR$/JavaThread_02/JavaThread_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Thread.iml" filepath="$PROJECT_DIR$/Java_Thread.iml" />
+    </modules>
+  </component>
+</project>
