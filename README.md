@@ -1,4 +1,4 @@
 
-- [Java¶àÏß³Ì(ÉÏÆª)](JavaThread_01)
+- [Javaå¤šçº¿ç¨‹(ä¸Šç¯‡)](JavaThread_01)
 
-- [Java¶àÏß³Ì(ÏÂÆª)](JavaThread_02)
+- [Javaå¤šçº¿ç¨‹(ä¸‹ç¯‡)](JavaThread_02)
